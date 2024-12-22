@@ -1,4 +1,4 @@
-# 2. Proyecto NODE JS
+# 2. Proyecto NODE JS (Desafio 360)
 
 Proyecto de Backend parte del Desafio 360
 
@@ -10,25 +10,25 @@ Proyecto de Backend parte del Desafio 360
 
     2.1. Creación de Enpoints
 
-        2.1.1 CRUD de Productos: Inserción/Actualización
+    2.1.1 CRUD de Productos: Inserción/Actualización
 
-        2.1.2 CRUD de Categorias de Productos:Inserción/Actualización
+    2.1.2 CRUD de Categorias de Productos:Inserción/Actualización
 
-        2.1.3 CRUD de Estados: Inserción/Actualización
+    2.1.3 CRUD de Estados: Inserción/Actualización
 
-        2.1.4 CRUD de Usuarios: Inserción/Actualización (encriptar contraseña)
+    2.1.4 CRUD de Usuarios: Inserción/Actualización (encriptar contraseña)
 
-        2.1.5 CRUD de Orden/Detalles, este es el unico CRUD donde se implementa un maestro detalle: Inserción/Actualización (Solo Encabezado)
+    2.1.5 CRUD de Orden/Detalles, este es el unico CRUD donde se implementa un maestro detalle: Inserción/Actualización (Solo Encabezado)
 
-        2.1.6 CRUD de Clientes: Inserción/Actualización
+    2.1.6 CRUD de Clientes: Inserción/Actualización
 
 3.  Seguridad del API: Agregar autenticación al sistema
 
-        3.1. realizarlo mediante JSON web token
+    3.1. realizarlo mediante JSON web token
 
-        3.2. agregar gestión de sesiones de usuario
+    3.2. agregar gestión de sesiones de usuario
 
-        3.3. validar cada transacción que se haga al API con un token valido, expirar los tokens en 24 horas
+    3.3. validar cada transacción que se haga al API con un token valido, expirar los tokens en 24 horas
 
 4.  Validar los endpoint utilizando POSTMAN
 
